@@ -43,7 +43,7 @@
 
 [Click here to see tutorial video](https://youtu.be/KQVYQAOsFYY)
 
-Thanks to [ObDiscuss](https://telegram.dog/ObDiscuss) and [Erich Daniken](https://telegram.dog/Owdver_bot) for the video
+Thanks to [OB Discuss](https://telegram.dog/ObDiscuss) and [Owdver Bot](https://telegram.dog/Owdver_bot) for the video
 
 ## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/ObDiscuss)
 
