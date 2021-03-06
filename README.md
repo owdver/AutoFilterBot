@@ -45,7 +45,7 @@
 
 Thanks to [OB Discuss](https://telegram.dog/ObDiscuss) and [Owdver Bot](https://telegram.dog/Owdver_bot) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/ObDiscuss)
+## Any bugs or errors or suggestions, report at [ObDiscuss](https://telegram.dog/ObDiscuss)
 
 
 ## Installation
